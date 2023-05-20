@@ -6,7 +6,7 @@ Este é um projeto de uma aplicação simples de criptografia e descriptografia 
 - Descriptografar mensagens criptografadas usando a Cifra de César.
 - Suporte para letras maiúsculas e minúsculas.
 - Preservação de espaços em branco e outros caracteres especiais durante a criptografia e descriptografia.
-- 
+
 ## Como usar
 1. Digite a mensagem no campo de texto fornecido.
 2. Selecione o tamanho da chave de criptografia.
